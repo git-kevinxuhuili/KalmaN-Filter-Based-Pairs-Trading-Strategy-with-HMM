@@ -14,6 +14,8 @@ hmm_risk_manager.py --- HMM risk manager component
 
 kalman_filter_strategy --- Kalman Filter Pairs Trading Strategy component
 
+Please find the report in A-Practical-Application-Of-Hidden-Markov-Model-To-Kalman-Filter-Based-Pairs-Trading.pdf
+
 
 ### Abstract 
 
